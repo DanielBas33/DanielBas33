@@ -2,10 +2,10 @@
 
 ## I'm a Hungry Junior Software Developer!!
 
-- 🔭 I just started working at Selectra as a Full Stack Developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to develop my skills in more areas
-- 🥅 2022 Goals: Read more, find some more fun courses and a healthier diet
+- :computer: I just started working at Selectra as a Full Stack Developer
+- :notebook: I’m currently learning everything 🤣
+- :panda_face: I’m looking forward for new challenges!
+- :pushpin: 2022 Goals: Read more, find some more fun courses and a healthier diet
 - ⚡ Fun fact: I just started climbing and its awesome
 
 ### Connect with me:
