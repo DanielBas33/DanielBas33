@@ -1,12 +1,12 @@
 ### Hi there, I'm Daniel 👋 
 
-## I'm a Hungry Junior Software Developer!!
+## I'm a Hungry Software Engineer!!
 
-- :computer: I just started working at Selectra as a Full Stack Developer
-- :notebook: I’m currently learning everything, but love writting and would love to improve my skills :pencil:
+- :computer: Experience in multiple companies, working as CTO on a SleepTech Startup ATM
+- :notebook: Passionate about writting and would love to improve my skills :pencil:
 - :100: I’m looking forward for new challenges!
-- :pushpin: 2022 Goals: Read more, find some more fun courses and a healthier diet
-- ⚡ Fun fact: I just started climbing and its awesome, also I really like pandas :panda_face:
+- :pushpin: 2024 Goals: Read more, find some more fun courses and a healthier diet
+- ⚡ Fun fact: Im starting to understand AI and its awesome, also I really like pandas :panda_face:
 
 ### Connect with me:
 
