@@ -2,7 +2,9 @@
 
 ## I'm a Hungry Software Engineer!!
 
-- :computer: Experience in multiple companies, working as CTO on a SleepTech Startup ATM
+- :computer: Passionate developer with 3 years of experience in leading companies like Accenture. Currently shifting gears to become a Data Engineer.
+- 📊 Excited about AI, data modeling, ETL, and building a data-driven future. 
+- 🛠️ Actively learning through hands-on projects. 
 - :notebook: Passionate about writting and would love to improve my skills :pencil:
 - :100: I’m looking forward for new challenges!
 - :pushpin: 2024 Goals: Read more, find some more fun courses and a healthier diet
