@@ -1,14 +1,9 @@
 ### Hi there, I'm Daniel 👋 
 
-## I'm a Hungry Software Engineer!!
+## I'm a Software Engineer
 
-- :computer: Passionate developer with 3 years of experience in leading companies like Accenture. Currently shifting gears to become a Data Engineer.
-- 📊 Excited about AI, data modeling, ETL, and building a data-driven future. 
-- 🛠️ Actively learning through hands-on projects. 
-- :notebook: Passionate about writting and would love to improve my skills :pencil:
+- :computer: Passionate developer with 3 years of experience in leading companies like Accenture.
 - :100: I’m looking forward for new challenges!
-- :pushpin: 2024 Goals: Read more, find some more fun courses and a healthier diet
-- ⚡ Fun fact: Im starting to understand AI and its awesome, also I really like pandas :panda_face:
 
 ### Connect with me:
 
